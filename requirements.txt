@@ -1,0 +1,4 @@
+websocket
+python-telegram-bot>=20.0
+websocket-client
+requests
